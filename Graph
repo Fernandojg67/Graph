@@ -34,3 +34,27 @@
         <p id="operation"></p>
     </body>
 </html>
+
+Javascript
+
+
+function Manuel() {
+    document.getElementById("demo").innerHTML="En verdad si es un maldito";
+}
+function Asta(){
+    document.getElementById('Asta').src='https://i.pinimg.com/originals/c9/52/74/c95274e31176aab30dad81344e58c7cc.jpg';
+}
+function sum() {
+    document.write(5*5);
+}
+
+var a, b, c, d;
+a = 100;
+b = 30;
+c= 13;
+d= 1;
+
+let x, y;
+x= 5+6
+y= x*10
+document.getElementById("operation").innerHTML = y;
