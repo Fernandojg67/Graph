@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="myScript.js"defer></script>
+    </head>
+    <body>
+        <button type="button" onclick="document.src">Try it</button>
+        <p id="demo">Manuel es un maldito</p>
+        <button type="button"onclick="Manuel()">Click Me!</button> <br><br><br>
+
+        <img id="Asta"src="https://i.pinimg.com/originals/c9/52/74/c95274e31176aab30dad81344e58c7cc.jpg"
+        width="200px" height="400px">
+        <button onclick="document.getElementById('Asta').src='https://i.pinimg.com/originals/1c/19/80/1c1980183707371152d86415962cf872.jpg'">Show his gf</button>
+        <button onclick="Asta()">Show him</button> <br><br><br>
+
+        
+        <img id="Naruto"src="https://yt3.ggpht.com/a/AATXAJzzxZmROQehqGh-2mkV3iwvt1zlAtr5-Yw-1mb5LA=s900-c-k-c0xffffffff-no-rj-mo" width="200px" height="400px">
+        <button onclick="document.getElementById('Naruto').src='https://www.looper.com/img/gallery/why-hinata-from-naruto-is-more-dangerous-than-you-think/l-intro-1615991253.jpg'">Show his gf</button>
+        <button onclick="document.getElementById('Naruto').src='https://yt3.ggpht.com/a/AATXAJzzxZmROQehqGh-2mkV3iwvt1zlAtr5-Yw-1mb5LA=s900-c-k-c0xffffffff-no-rj-mo'">Show him</button> <br><br><br>
+
+        <img id="Ichigo"src="https://practicaltyping.com/wp-content/uploads/2020/02/ichigo.jpg"
+        width="200px" height="400px">
+        <button onclick="document.getElementById('Ichigo').src='https://th.bing.com/th/id/OIP.jCoheARfAZYkx18Gb3SceAHaFj?pid=ImgDet&rs=1'">Show his gf</button>
+        <button onclick="document.getElementById('Ichigo').src='https://practicaltyping.com/wp-content/uploads/2020/02/ichigo.jpg'">Show him</button> <br><br><br>
+
+        <img id="Natsu"src="https://yt3.ggpht.com/a/AATXAJw0nEExJjvmiJY1VdOR7nRBPRi-IJmhlsM2UQ=s900-c-k-c0xffffffff-no-rj-mo"
+        width="200px" height="400px">
+        <button onclick="document.getElementById('Natsu').src='https://i.pinimg.com/originals/4e/d1/55/4ed155d57534ab6dd6f15ebc793fe834.jpg'">Show his gf</button>
+        <button onclick="document.getElementById('Natsu').src='https://yt3.ggpht.com/a/AATXAJw0nEExJjvmiJY1VdOR7nRBPRi-IJmhlsM2UQ=s900-c-k-c0xffffffff-no-rj-mo'">Show him</button>
+        <button onclick="window.print()">Print this page</button>
+        <p></p>
+        <br><br>
+        <button type="button" onclick="document.write(a+b)">Try it</button>
+        <p id="operation"></p>
+    </body>
+</html>
